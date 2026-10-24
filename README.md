@@ -4,11 +4,11 @@ Official download page for **Uhiva Launcher**, the installer and updater for the
 *Ready or Not*. This repository contains **only release downloads** — no source code.
 
 ➡️ **Download:** see [Releases](https://github.com/Adanirk/uhiva-launcher-releases/releases) and pick the newest
-`Uhiva Launcher_<version>_x64-setup.exe`.
+`Uhiva.Launcher_<version>_x64-setup.exe`.
 
 > **Release candidate / pre-release.** The installer is **not code-signed** (no Authenticode certificate yet).
 > Windows SmartScreen may say "Windows protected your PC — unknown publisher". Compare the SHA-256 listed in the
-> release notes with the downloaded file (PowerShell: `Get-FileHash ".\Uhiva Launcher_0.2.0-rc.2_x64-setup.exe"`)
+> release notes with the downloaded file (PowerShell: `Get-FileHash .\Uhiva.Launcher_0.2.0-rc.2_x64-setup.exe`)
 > and only then choose *More info → Run anyway*. Do not disable Windows Defender or SmartScreen.
 
 ## How to install RoNCoopSquad with the launcher

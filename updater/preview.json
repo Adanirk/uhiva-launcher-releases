@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0-rc.4",
+  "notes": "Uhiva Launcher 0.2.0-rc.4: checks for launcher and mod updates at every start, new Statistics screen. Report bugs: https://discord.gg/B3A8GrWg66",
+  "pub_date": "2026-10-24T16:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbGF2bEtSMlE0dElNOVBTVFgyblhYbVF5Y3JFSUVtNEszcFJLL3ZJcDZKYnU1bVltbzdSUlNoTGJZeTREeWJadWM4Mlk2L0loYnZpenJrZTVqVVQzaDBkSERwSnVIbmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU0MzMwCWZpbGU6VWhpdmEgTGF1bmNoZXJfMC4yLjAtcmMuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAtcmMuNApsVWw5eS9RUkJiZTRudkI3U3lRN08zc3F4cUNKMGJkWWIzRzhBS0M4UXErUkRPTXhEUnNoUDduRzVUdzF0WS9CcGR4TE5ZbmVEck16TklvR3NLd0NDdz09Cg==",
+      "url": "https://github.com/Adanirk/uhiva-launcher-releases/releases/download/v0.2.0-rc.4/Uhiva.Launcher_0.2.0-rc.4_x64-setup.exe"
+    }
+  }
+}

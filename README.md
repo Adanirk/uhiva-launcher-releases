@@ -33,5 +33,5 @@ Official download page for **Uhiva Launcher**, the installer and updater for the
 - Launcher self-update is off in this release candidate — check this page for new versions.
 - No telemetry.
 
-Community: https://discord.gg/SawPHubQg · Unofficial fan-made software, not affiliated with or endorsed by
+Community: https://discord.gg/B3A8GrWg66 · Unofficial fan-made software, not affiliated with or endorsed by
 VOID Interactive.

@@ -8,7 +8,7 @@ Official download page for **Uhiva Launcher**, the installer and updater for the
 
 > **Release candidate / pre-release.** The installer is **not code-signed** (no Authenticode certificate yet).
 > Windows SmartScreen may say "Windows protected your PC — unknown publisher". Compare the SHA-256 listed in the
-> release notes with the downloaded file (PowerShell: `Get-FileHash .\Uhiva.Launcher_0.2.0-rc.2_x64-setup.exe`)
+> release notes with the downloaded file (PowerShell: `Get-FileHash .\Uhiva.Launcher_0.2.0-rc.3_x64-setup.exe`)
 > and only then choose *More info → Run anyway*. Do not disable Windows Defender or SmartScreen.
 
 ## How to install RoNCoopSquad with the launcher
@@ -16,7 +16,7 @@ Official download page for **Uhiva Launcher**, the installer and updater for the
    copies DLLs into the game).
 2. Run the setup. It installs for your Windows user only (no administrator rights needed).
 3. Start Uhiva Launcher → **Platforms → Rescan** → select your Steam installation.
-4. **Versions → Check releases** → choose **0.4.1-alpha** → **Install** → check the folder shown in the
+4. **Versions → Check releases** → choose **0.4.2-alpha** → **Install** → check the folder shown in the
    confirmation, tick the box, confirm.
 5. **Play via Steam**. Both co-op players need the **same** RoNCoopSquad version.
 

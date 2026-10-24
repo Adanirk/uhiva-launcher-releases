@@ -28,7 +28,7 @@ Official download page for **Uhiva Launcher**, the installer and updater for the
 - Old RoNCoopSquad builds that were not tested on the current game version are shown but blocked.
 
 ## Known limitations
-- RoNCoopSquad 0.4.x is **alpha**: tested on one PC (host); co-op between two PCs is not verified yet.
+- RoNCoopSquad 0.4.x is **alpha**. Please report every bug you find in our Discord: https://discord.gg/B3A8GrWg66
 - Epic Games Store and Xbox PC: detected, but mod installation is not supported yet.
 - Launcher self-update is off in this release candidate — check this page for new versions.
 - No telemetry.
